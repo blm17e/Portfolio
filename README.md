@@ -26,6 +26,12 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 - Social Determinants of Health
 - Climate Gentrification
 
+## Connect with Me
+
+- [Google Scholar](https://scholar.google.com/citations?user=RJfxNTQAAAAJ&hl=en)
+- [LinkedIn]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/bertram-melix-672a12160/)
+
+
 ## Publications and Reports
 
 ### Publications:
@@ -47,3 +53,5 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ·     Butler W, Holmes T, Jackson A, Lange Z, Melix B, Milordis A. 2022. Addressing climate driven displacement: planning for sea level rise in Florida’s coastal communities and affordable housing in inland communities in the face of climate gentrification. Florida State University.
 
 ·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). 
+
+
