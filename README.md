@@ -38,9 +38,9 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ·     Bertram L. Melix and Christopher K. Uejio. In Review. “Evaluating Small Area Differential Privacy Life Expectancy.” 
 
-·     Wong, Sandy, C.S. Ponder, and Bertram Melix. 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” Social Science & Medicine. [(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080861/)]
+·     Wong, Sandy, C.S. Ponder, and Bertram Melix. 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” Social Science & Medicine. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080861/)
 
-·     Bertram L. Melix, April Jackson, William Butler, Tisha Holmes, and Christopher K. Uejio. 2022. “Locating Neighborhood Displacement Risks to Gentrification Pressures in Three Coastal Counties in Florida.” The Professional Geographer. (https://www.tandfonline.com/doi/abs/10.1080/00330124.2022.2087695)
+·     Bertram L. Melix, April Jackson, William Butler, Tisha Holmes, and Christopher K. Uejio. 2022. “Locating Neighborhood Displacement Risks to Gentrification Pressures in Three Coastal Counties in Florida.” The Professional Geographer. [Article](https://www.tandfonline.com/doi/abs/10.1080/00330124.2022.2087695)
 
 ·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health. (https://link-springer-com.proxy.lib.fsu.edu/article/10.1186/s12889-020-08754-x)
 
