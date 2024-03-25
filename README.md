@@ -17,7 +17,6 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ### Methods: 
 - GIS
 - Spatial Statistics
-- Bayesian Modelling
 - Population Analytics
 
 ### Applications: 
