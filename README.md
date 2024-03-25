@@ -42,16 +42,16 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ·     Bertram L. Melix, April Jackson, William Butler, Tisha Holmes, and Christopher K. Uejio. 2022. “Locating Neighborhood Displacement Risks to Gentrification Pressures in Three Coastal Counties in Florida.” The Professional Geographer. [Article](https://www.tandfonline.com/doi/abs/10.1080/00330124.2022.2087695)
 
-·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health. (https://link-springer-com.proxy.lib.fsu.edu/article/10.1186/s12889-020-08754-x)
+·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health. [Article](https://link-springer-com.proxy.lib.fsu.edu/article/10.1186/s12889-020-08754-x)
 
-·     Rees, Amanda and Bertram Melix. 2019. “Landscape Discourses and Community Garden Design: Creating Community Gardens in One Mid-Sized Southern US City.” Studies in the History of Gardens & Designed Landscapes. (https://www.tandfonline.com/doi/abs/10.1080/14601176.2018.1512797)
+·     Rees, Amanda and Bertram Melix. 2019. “Landscape Discourses and Community Garden Design: Creating Community Gardens in One Mid-Sized Southern US City.” Studies in the History of Gardens & Designed Landscapes. [Article](https://www.tandfonline.com/doi/abs/10.1080/14601176.2018.1512797)
 
 ### Reports:
 
-·     McCreary T, Miltonette C, Jackson A, Rose A, Melix B. 2023. Can 8 Wait? A Review of Use of Force Policies in Florida and Perspectives on their Effectiveness. Leroy Collins Institute at Florida State University. (https://lci.fsu.edu/wp-content/uploads/2023/06/22-LCI-011-Can-8-Wait-Full-Report_V3.pdf)
+·     McCreary T, Miltonette C, Jackson A, Rose A, Melix B. 2023. Can 8 Wait? A Review of Use of Force Policies in Florida and Perspectives on their Effectiveness. Leroy Collins Institute at Florida State University. [Report](https://lci.fsu.edu/wp-content/uploads/2023/06/22-LCI-011-Can-8-Wait-Full-Report_V3.pdf)
 
-·     Butler W, Holmes T, Jackson A, Lange Z, Melix B, Milordis A. 2022. Addressing climate driven displacement: planning for sea level rise in Florida’s coastal communities and affordable housing in inland communities in the face of climate gentrification. Florida State University. (https://lci.fsu.edu//wp-content/uploads/sites/28/2022/02/Butler-Jackson-Holmes-et-al.-2021-Final-LCI-Report-Climate-Gentrification-Updated-min.pdf)
+·     Butler W, Holmes T, Jackson A, Lange Z, Melix B, Milordis A. 2022. Addressing climate driven displacement: planning for sea level rise in Florida’s coastal communities and affordable housing in inland communities in the face of climate gentrification. Florida State University. [Report](https://lci.fsu.edu//wp-content/uploads/sites/28/2022/02/Butler-Jackson-Holmes-et-al.-2021-Final-LCI-Report-Climate-Gentrification-Updated-min.pdf)
 
-·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). (https://www.poah.org/sites/default/files/related-files/From_the_ground_up_brief.pdf)
+·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). [Report](https://www.poah.org/sites/default/files/related-files/From_the_ground_up_brief.pdf)
 
 
