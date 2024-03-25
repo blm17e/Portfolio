@@ -1,45 +1,49 @@
 # Health Geographer and Population Researcher
 
 ## About Me
-As a health geographer and spatial data scientist, I'm deeply motivated to explore the intricate relationships between geography, health, and society. My fascination lies in how social and physical environments shape health outcomes and well-being. Leveraging a spatial perspective and employing a diverse array of quantitative methods—from GIS techniques and Bayesian models to both spatial and non-spatial statistics—my work emphasizes the importance of geographic perspectives in population health research and seeks to deepen the understanding of health disparities. My scholarly pursuits span several domains, including public health, neighborhood impacts on health, social determinants of health, climate change effects on health, and climate gentrification. 
+As a health geographer and spatial data scientist, I am motivated to explore the relationships between geography, health, and society. I am fascinated by the social and physical environments that shape health and well being. 
+By adopting a spatial perspective and utilizing a range of quantitative methods — from GIS techniques to Bayesian models to spatial and non-spatial statistics – my work advances the incorporation of the geographic perspective in population health research and contributes to understanding health disparities. My scholarly work encompasses a broad range of domains, including public health, the influence of neighborhoods on health, social determinants of health, climate change and health, and climate gentrification.
+Currently, as a PhD candidate in the Geography Department at Florida State University my research has been broadly focused on investigating the impact of social and built environments on health and well-being. This work has offered insights into the disparities in life expectancy linked to social determinant of health, the impact of COVID-19 on U.S. nursing homes, the implications of differential privacy on the calculation of small area health metrics, and the potential displacement risks in communities facing climate gentrification. 
 
-As a Ph.D. candidate in the Geography Department at Florida State University, my research primarily focuses on the impact of social and built environments on health and well-being, providing insights into life expectancy disparities, COVID-19's impact on U.S. nursing homes, the implications of differential privacy on small area health metrics, and potential displacement risks in communities facing climate gentrification.
-
-## Connect with Me
-- [Google Scholar Profile](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) - Find my published works and citations.
-- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) - Connect with me professionally.
-
-## Education
-- **Ph.D. Candidate, Geography**, Florida State University (2019-Present)  
+## Education 
+- Ph.D. Candidate, Florida State University, 2019-Present
   Supervisor: Dr. Christopher K. Uejio
-- **M.S., GIS**, Florida State University (2018)
-- **B.A., History**, Columbus State University (2016)
+
+- M.S., GIS, Florida State University, 2018
+
+- B.A., History, Columbus State University, 2016
 
 ## Research Interests
-### Methods:
+### Methods: 
 - GIS
 - Spatial Statistics
 - Bayesian Modelling
 - Population Analytics
 
-### Applications:
+### Applications: 
 - Public Health
 - Neighborhoods and Health
 - Social Determinants of Health
 - Climate Gentrification
 
 ## Publications and Reports
-Highlighting my contributions to the field through peer-reviewed publications and impactful reports.
 
-### Publications
-- 
+### Publications:
 
-### Reports
-- 
+·     Bertram L. Melix and Christopher K. Uejio. In Review. “Evaluating Small Area Differential Privacy Life Expectancy.” 
 
-## Example Project
-- **Project Title**: Description and outcomes of your project. 
-- [GitHub Repository](https://github.com/YOUR_PROJECT_LINK) - Access the project code and resources.
-- [Project Report](https://LINK_TO_REPORT) - Read the full report on the findings and implications of the project.
+·     Wong, Sandy, C.S. Ponder, and Bertram Melix. 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” Social Science & Medicine. 
 
+·     Bertram L. Melix, April Jackson, William Butler, Tisha Holmes, and Christopher K. Uejio. 2022. “Locating Neighborhood Displacement Risks to Gentrification Pressures in Three Coastal Counties in Florida.” The Professional Geographer.
 
+·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health.
+
+·     Rees, Amanda and Bertram Melix. 2019. “Landscape Discourses and Community Garden Design: Creating Community Gardens in One Mid-Sized Southern US City.” Studies in the History of Gardens & Designed Landscapes.
+
+### Reports:
+
+·     McCreary T, Miltonette C, Jackson A, Rose A, Melix B. 2023. Can 8 Wait? A Review of Use of Force Policies in Florida and Perspectives on their Effectiveness. Leroy Collins Institute at Florida State University.
+
+·     Butler W, Holmes T, Jackson A, Lange Z, Melix B, Milordis A. 2022. Addressing climate driven displacement: planning for sea level rise in Florida’s coastal communities and affordable housing in inland communities in the face of climate gentrification. Florida State University.
+
+·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). 
