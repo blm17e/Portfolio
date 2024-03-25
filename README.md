@@ -8,7 +8,6 @@ As a Ph.D. candidate in the Geography Department at Florida State University, my
 ## Connect with Me
 - [Google Scholar Profile](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) - Find my published works and citations.
 - [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) - Connect with me professionally.
-- [ResearchGate](https://www.researchgate.net/profile/YOUR_PROFILE) - Access my research papers and contributions.
 
 ## Education
 - **Ph.D. Candidate, Geography**, Florida State University (2019-Present)  
@@ -33,23 +32,14 @@ As a Ph.D. candidate in the Geography Department at Florida State University, my
 Highlighting my contributions to the field through peer-reviewed publications and impactful reports.
 
 ### Publications
-- Link each publication title to its DOI page, e.g., [Evaluating Small Area Differential Privacy Life Expectancy](https://doi.org/YOUR_DOI_HERE). This makes it easier for readers to access and cite your work.
+- 
 
 ### Reports
-- Consider hosting PDFs of the reports on a platform like GitHub or an institutional repository, providing direct links for easy access.
+- 
 
-## Showcasing Projects
-For projects not directly linked to a publication or report, consider creating a separate section or repository within your GitHub profile. Include brief descriptions, objectives, methodologies, and any public code or data repositories.
-
-### Example Project
+## Example Project
 - **Project Title**: Description and outcomes of your project. 
 - [GitHub Repository](https://github.com/YOUR_PROJECT_LINK) - Access the project code and resources.
 - [Project Report](https://LINK_TO_REPORT) - Read the full report on the findings and implications of the project.
 
-## Awards and Recognitions
-Highlight any awards or recognitions you have received in your academic career. This can include scholarships, grants, best paper awards, etc.
 
-## Presentations and Conferences
-List any significant presentations, poster sessions, or conferences you have participated in. Include the title of the presentation, the name of the conference, and the date.
-
-Remember, the key to a compelling README.md is not just listing achievements, but telling a story about your journey, your passion for your field, and how your work contributes to the broader understanding of health geography and population research.
