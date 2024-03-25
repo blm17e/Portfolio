@@ -38,11 +38,11 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ·     Bertram L. Melix and Christopher K. Uejio. In Review. “Evaluating Small Area Differential Privacy Life Expectancy.” 
 
-·     Wong, Sandy, C.S. Ponder, and Bertram Melix. 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” Social Science & Medicine. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080861/)
+·     Wong, Sandy, C.S. Ponder, and Bertram Melix. 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” Social Science & Medicine. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080861/) | [PDF](/image/Spatial%20and%20racial%20covid-19%20disparities%20in%20U.S.%20nursing%20homes.pdf)
 
 ·     Bertram L. Melix, April Jackson, William Butler, Tisha Holmes, and Christopher K. Uejio. 2022. “Locating Neighborhood Displacement Risks to Gentrification Pressures in Three Coastal Counties in Florida.” The Professional Geographer. [Article](https://www.tandfonline.com/doi/abs/10.1080/00330124.2022.2087695) | [PDF](/image/Locating%20Neighborhood%20Displacement%20Risks%20to%20Climate%20Gentrification%20Pressures%20in%20Three%20Coastal%20Counties%20in%20Florida.pdf)
 
-·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health. [Article](https://link-springer-com.proxy.lib.fsu.edu/content/pdf/10.1186/s12889-020-08754-x.pdf) | [PDF](image/Florida%20neighborhood%20analysis%20of%20social%20determinants%20and%20their%20relationship%20to%20life%20expectancy.pdf)
+·     Bertram L. Melix, Christopher K. Uejio, Kristina W. Kintziger, Keshia Reid, Chris Duclos, Melissa M. Jordan, Tisha Holmes, and Jessica Joiner. 2020. “Florida Neighborhood Analysis of Social Determinants and Their Relationship to Life Expectancy.” BMC Public Health. [Article](https://link-springer-com.proxy.lib.fsu.edu/content/pdf/10.1186/s12889-020-08754-x.pdf) | [PDF](/image/Florida%20neighborhood%20analysis%20of%20social%20determinants%20and%20their%20relationship%20to%20life%20expectancy.pdf)
 
 ·     Rees, Amanda and Bertram Melix. 2019. “Landscape Discourses and Community Garden Design: Creating Community Gardens in One Mid-Sized Southern US City.” Studies in the History of Gardens & Designed Landscapes. [Article](https://www.tandfonline.com/doi/abs/10.1080/14601176.2018.1512797)
 
