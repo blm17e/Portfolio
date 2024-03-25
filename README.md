@@ -24,7 +24,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 - Public Health
 - Neighborhoods and Health
 - Social Determinants of Health
-- Climate Gentrification
+- Vulnerability and Climate Change
 
 ## Connect with Me
 
