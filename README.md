@@ -66,6 +66,6 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ·    This study uses the well-known principal components analysis (PCA) to create synthetic displacement factors to construct an index to categorize neighborhoods as being at potentially high, medium, or low risk for second-order displacement.
 
 ### Figures
-![Displacement Risk - Duval, FL](images/DRI_Duval.jpg)
-![Displacement Risk - Pinellas, FL](images/DRI_Pinellas.jpg)
+![Displacement Risk - Duval, FL](image/DRI_Duval.jpg)
+![Displacement Risk - Pinellas, FL](image/DRI_Pinellas.jpg)
 
