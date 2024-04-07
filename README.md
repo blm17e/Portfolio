@@ -58,14 +58,25 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ## Example Projects
 
-### Highlights
+### Locating Neighborhood Displacement Risks to Climate Gentrification Pressures in Three Coastal Counties in Florida
+#### Highlights
 ·    Over the next few decades, residents in vulnerable communities may be subject to second-order displacement, via in-movers pricing longtime residents out of their homes and neighborhoods.
 
 ·    Areas that have the highest risk of gentrification-driven displacement based on demographic, socioeconomic, and housing factors tend to be inland in Florida.
 
 ·    This study uses the well-known principal components analysis (PCA) to create synthetic displacement factors to construct an index to categorize neighborhoods as being at potentially high, medium, or low risk for second-order displacement.
 
-### Figures
+#### Figures
 ![Displacement Risk - Duval, FL](image/DRI_Duval.jpg)
 ![Displacement Risk - Pinellas, FL](image/DRI_Pinellas.jpg)
+
+###CAnD3 - Research Replicability and Workflow Management Exercise
+[CANd3-RRWM-Data-Activity-Exercise_1](https://github.com/blm17e/CAnD3-RRWM-Data-Activity-Exercise_1)
+
+####Objective:
+Explore the relationship between family composition and social context variables and self-rated health. 
+
+####Data: 
+The "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
+
 
