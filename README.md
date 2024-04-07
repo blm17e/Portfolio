@@ -74,10 +74,10 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 [CANd3-RRWM-Data-Activity-Exercise_1](https://github.com/blm17e/CAnD3-RRWM-Data-Activity-Exercise_1)
 
-####Objective:
+#### Objective:
 Explore the relationship between family composition and social context variables and self-rated health. 
 
-####Data: 
+#### Data: 
 The "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
 
