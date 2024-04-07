@@ -56,3 +56,9 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). [Report](https://www.poah.org/sites/default/files/related-files/From_the_ground_up_brief.pdf)
 
 
+## Example Projects
+
+### Highlights
+·    Over the next few decades, residents in vulnerable communities may be subject to second-order displacement, via in-movers pricing longtime residents out of their homes and neighborhoods.
+·    Areas that have the highest risk of gentrification-driven displacement based on demographic, socioeconomic, and housing factors tend to be inland in Florida.
+·    This study uses the well-known principal components analysis (PCA) to create synthetic displacement factors to construct an index to categorize neighborhoods as being at potentially high, medium, or low risk for second-order displacement.
