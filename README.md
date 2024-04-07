@@ -70,7 +70,8 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ![Displacement Risk - Duval, FL](image/DRI_Duval.jpg)
 ![Displacement Risk - Pinellas, FL](image/DRI_Pinellas.jpg)
 
-###CAnD3 - Research Replicability and Workflow Management Exercise
+### CAnD3 - Research Replicability and Workflow Management Exercise
+
 [CANd3-RRWM-Data-Activity-Exercise_1](https://github.com/blm17e/CAnD3-RRWM-Data-Activity-Exercise_1)
 
 ####Objective:
