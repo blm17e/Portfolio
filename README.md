@@ -81,3 +81,5 @@ Explore the relationship between family composition and social context variables
 The "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
 
+### CAnD3 Shark Tank
+[Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
