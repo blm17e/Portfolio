@@ -32,6 +32,8 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 - [Google Scholar](https://scholar.google.com/citations?user=RJfxNTQAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/bertram-melix-672a12160/)
 
+## My CV
+- [CV](image/CV.pdf)
 
 ## Publications and Reports
 
