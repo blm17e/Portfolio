@@ -87,7 +87,7 @@ The "General Social Survey - Family" from 2017 (GSS) is used for the following a
 [Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
 
 ### Interactive Map 
-[![Interactive Map](images/map-screenshot.png)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html))
+[![Interactive Map](image/Rplot.jpeg)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html)
 
 
 
