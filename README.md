@@ -86,5 +86,8 @@ The "General Social Survey - Family" from 2017 (GSS) is used for the following a
 ### CAnD3 Shark Tank
 [Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
 
+### Interactive Map 
+[![Interactive Map](images/map-screenshot.png)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html))
+
 
 
