@@ -1,11 +1,19 @@
 # Health Geographer and Population Researcher
 
+<div style="display: flex; justify-content: space-around;">
+
+<div style="width: 30%; padding: 10px;">
+
 ## About Me
 As a health geographer and spatial data scientist, I am motivated to explore the relationships between geography, health, and society. I am fascinated by the social and physical environments that shape health and well being. 
 
 By adopting a spatial perspective and utilizing a range of quantitative methods — from GIS techniques to Bayesian models to spatial and non-spatial statistics – my work advances the incorporation of the geographic perspective in population health research and contributes to understanding health disparities. My scholarly work encompasses a broad range of domains, including public health, the influence of neighborhoods on health, social determinants of health, climate change and health, and climate gentrification.
 
 Currently, as a PhD candidate in the Geography Department at Florida State University my research has been broadly focused on investigating the impact of social and built environments on health and well-being (See my CV here: [CV](image/CV1.pdf)). This work has offered insights into the disparities in life expectancy linked to social determinant of health, the impact of COVID-19 on U.S. nursing homes, the implications of differential privacy on the calculation of small area health metrics, and the potential displacement risks in communities facing climate gentrification.
+
+</div>
+
+<div style="width: 30%; padding: 10px;">
 
 ## Education 
 - Ph.D. Candidate, Florida State University, 2019-Present
@@ -14,6 +22,10 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 - M.S., GIS, Florida State University, 2018
 
 - B.A., History, Columbus State University, 2016
+
+</div>
+
+<div style="width: 30%; padding: 10px;">
 
 ## Research Interests
 ### Methods: 
@@ -54,6 +66,9 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ·     Amy Khare, Leila Fiester, Sherise McKinney, Alexandra Curley, April Jackson, and Bertram L. Melix. 2022. “From the Ground Up: Housing as a Catalyst for Community-Driven Redevelopment of Chicago’s Majority-Black Woodlawn Neighborhood.” National Initiative on Mixed-Income Communities (NIMC). [Report](https://www.poah.org/sites/default/files/related-files/From_the_ground_up_brief.pdf)
 
+</div>
+
+</div>
 
 ## Example Projects
 
