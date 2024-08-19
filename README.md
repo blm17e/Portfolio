@@ -5,7 +5,7 @@ As a health geographer and spatial data scientist, I am motivated to explore the
 
 By adopting a spatial perspective and utilizing a range of quantitative methods — from GIS techniques to Bayesian models to spatial and non-spatial statistics – my work advances the incorporation of the geographic perspective in population health research and contributes to understanding health disparities. My scholarly work encompasses a broad range of domains, including public health, the influence of neighborhoods on health, social determinants of health, climate change and health, and climate gentrification.
 
-Currently, as a PhD candidate in the Geography Department at Florida State University my research has been broadly focused on investigating the impact of social and built environments on health and well-being. This work has offered insights into the disparities in life expectancy linked to social determinant of health, the impact of COVID-19 on U.S. nursing homes, the implications of differential privacy on the calculation of small area health metrics, and the potential displacement risks in communities facing climate gentrification. 
+Currently, as a PhD candidate in the Geography Department at Florida State University my research has been broadly focused on investigating the impact of social and built environments on health and well-being. This work has offered insights into the disparities in life expectancy linked to social determinant of health, the impact of COVID-19 on U.S. nursing homes, the implications of differential privacy on the calculation of small area health metrics, and the potential displacement risks in communities facing climate gentrification. See my CV here: - [CV](image/CV.pdf) 
 
 ## Education 
 - Ph.D. Candidate, Florida State University, 2019-Present
@@ -31,9 +31,6 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 - [Google Scholar](https://scholar.google.com/citations?user=RJfxNTQAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/bertram-melix-672a12160/)
-
-## My CV
-- [CV](image/CV.pdf)
 
 ## Publications and Reports
 
