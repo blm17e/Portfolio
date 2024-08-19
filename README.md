@@ -1,6 +1,6 @@
 # Health Geographer and Population Researcher
 
-[About Me](#about-me) | [Education](#education) | [Publications and Reports](#publications-and-reports)
+[About Me](#about-me) | [Education](#education) | [Publications and Reports](#publications-and-reports) | [CAnD3](CAnD3)
 
 ## About Me
 As a health geographer and spatial data scientist, I am motivated to explore the relationships between geography, health, and society. I am fascinated by the social and physical environments that shape health and well being. 
@@ -73,6 +73,9 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ![Displacement Risk - Duval, FL](image/DRI_Duval.jpg)
 ![Displacement Risk - Pinellas, FL](image/DRI_Pinellas.jpg)
 
+
+## CAnD3 
+
 ### CAnD3 - Research Replicability and Workflow Management Exercise
 
 [CANd3-RRWM-Data-Activity-Exercise_1](https://github.com/blm17e/CAnD3-RRWM-Data-Activity-Exercise_1)
@@ -91,4 +94,5 @@ The "General Social Survey - Family" from 2017 (GSS) is used for the following a
 [![Interactive Map](image/Rplot.jpeg)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html)
 
 
-
+### CAnD3 Dragon's Den 
+[Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/.pptx)
