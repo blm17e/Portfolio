@@ -1,6 +1,6 @@
 # Health Geographer and Population Researcher
 
-[About Me](#about-me) | [Education](#education) | [Publications](#publications-and-reports) | [CAnD3 Showcase](#CAnD3-Trainings-and-Projects-Showcase)
+[About Me](#about-me) | [Education](#education) | [Publications](#publications-and-reports) | [CAnD3 Showcase](#cAnD3-trainings-and-projects-showcase)
 
 ## About Me
 As a health geographer and spatial data scientist, I am motivated to explore the relationships between geography, health, and society. I am fascinated by the social and physical environments that shape health and well being. 
