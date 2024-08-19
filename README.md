@@ -76,7 +76,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ## CAnD3 Trainings and Projects Showcase
 
-### CAnD3 - Research Replicability and Workflow Management Exercise
+### Example #1: CAnD3 - Research Replicability and Workflow Management Exercise
 
 [CANd3-RRWM-Data-Activity-Exercise_1](https://github.com/blm17e/CAnD3-RRWM-Data-Activity-Exercise_1)
 
@@ -87,14 +87,14 @@ Explore the relationship between family composition and social context variables
 The "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
 
-### CAnD3 Shark Tank
+### Example #2: CAnD3 Shark Tank
 [Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
 
 #### Interactive Map (Click Image to Access Interactive Version of Map)
 [![Interactive Map](image/Rplot.jpeg)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html)
 
 
-### CAnD3 Dragon's Den 
+### Example #3: CAnD3 Dragon's Den 
 [Presentation:Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage](/image/Mapping_the_Intersection_Average_Wait_Time_for_Housing_Vouchers_in_Relation_to_Minority_Household_Percentage.pptx)
 
 ![Average Time Spent on Waitlist in Relation to % of Minority Households across the U.S.](image/FinalMap.jpg)
