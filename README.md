@@ -97,4 +97,5 @@ The "General Social Survey - Family" from 2017 (GSS) is used for the following a
 ### CAnD3 Dragon's Den 
 [Presentation:Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage](/image/Mapping_the_Intersection_Average_Wait_Time_for_Housing_Vouchers_in_Relation_to_Minority_Household_Percentage.pptx)
 
+![Average Time Spent on Waitlist in Relation to % of Minority Households across the U.S.](image/FinalMap.jpg)
 
