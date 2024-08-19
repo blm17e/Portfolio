@@ -10,7 +10,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ## Education 
 - Ph.D. Candidate, Florida State University, 2019-Present
-  Supervisor: Dr. Christopher K. Uejio
+    - Supervisor: Dr. Christopher K. Uejio
 
 - M.S., GIS, Florida State University, 2018
 
