@@ -1,6 +1,6 @@
 # Health Geographer and Population Researcher
 
-[About Me](#about-me) | [Education](#education) | [Publications](#publications-and-reports) | [CAnD3 Showcase](#consortium-on-analytics-for-data-driven-decision-making-cand3-fellow’s-program-showcase)
+[About Me](#about-me) | [Education](#education) | [Publications](#publications-and-reports) | [CAnD3 Showcase](#consortium-on-analytics-for-data-driven-decision-making-cand3-fellows-program-showcase)
 
 ## About Me
 As a health geographer and spatial data scientist, I am motivated to explore the relationships between geography, health, and society. I am fascinated by the social and physical environments that shape health and well being. By adopting a spatial perspective and utilizing a range of quantitative methods — from GIS techniques to Bayesian models to spatial and non-spatial statistics – my work advances the incorporation of the geographic perspective in population health research and contributes to understanding health disparities.
