@@ -76,9 +76,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 [![Displacement Risk - Pinellas, FL](image/DRI_Pinellas_thumb.jpg)](image/DRI_Pinellas.jpg)
 
 
-## CAnD3 Trainings and Projects Showcase 
-
-### Projects and work completed during the 2023-2024 Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellow’s program
+## Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellow’s Program Showcase
 
 ### Example #1: CAnD3 - Research Replicability and Workflow Management Exercise
 
@@ -88,7 +86,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 Explore the relationship between family composition and social context variables and self-rated health. 
 
 #### Data: 
-The "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
+The Canadian "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
 
 ### Example #2: CAnD3 Shark Tank
