@@ -89,11 +89,15 @@ Explore the relationship between family composition and social context variables
 The Canadian "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
 
+
+
 ### Example #2: CAnD3 Shark Tank
 [Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
 
 #### Interactive Map (Click Image to Access Interactive Version of Map)
 [![Interactive Map](image/Rplot.jpeg)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html)
+
+
 
 
 ### Example #3: CAnD3 Dragon's Den 
