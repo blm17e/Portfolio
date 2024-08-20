@@ -75,6 +75,8 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 ### Pinellas County, FL
 [![Displacement Risk - Pinellas, FL](image/DRI_Pinellas_thumb.jpg)](image/DRI_Pinellas.jpg)
 
+<br>
+
 
 ## Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellow’s Program Showcase
 
@@ -88,8 +90,7 @@ Explore the relationship between family composition and social context variables
 #### Data: 
 The Canadian "General Social Survey - Family" from 2017 (GSS) is used for the following analysis. 
 
-
-
+<br>
 
 ### Example #2: CAnD3 Shark Tank
 [Presentation: Mapping Sea Level Rise Impacts on Affordable Housing in Duval County, Florida](/image/Shark_Tank_Visualization.pptx)
@@ -97,8 +98,7 @@ The Canadian "General Social Survey - Family" from 2017 (GSS) is used for the fo
 #### Interactive Map (Click Image to Access Interactive Version of Map)
 [![Interactive Map](image/Rplot.jpeg)](https://storage.googleapis.com/duvalaffordablehousing/interactiveMap.html)
 
-
-
+<br>
 
 ### Example #3: CAnD3 Dragon's Den 
 [Presentation:Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage](/image/Mapping_the_Intersection_Average_Wait_Time_for_Housing_Vouchers_in_Relation_to_Minority_Household_Percentage.pptx)
