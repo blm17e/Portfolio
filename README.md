@@ -38,7 +38,7 @@ Currently, as a PhD candidate in the Geography Department at Florida State Unive
 
 ### Publications:
 
-- **Bertram L. Melix and Christopher K. Uejio.** *In Review.* “Evaluating Small Area Differential Privacy Life Expectancy.”
+- **Bertram L. Melix and Christopher K. Uejio.** 2024. “Evaluating Small Area Differential Privacy Life Expectancy.” *Population, Space, and Place.* [Article](https://onlinelibrary.wiley.com/share/author/SECCASPGPXAIZZKH2K9H?target=10.1002/psp.2849)
 
 - **Wong, Sandy, C.S. Ponder, and Bertram Melix.** 2023. “Spatial and Racial Covid-19 Disparities in U.S. Nursing Homes.” *Social Science & Medicine.* [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080861/) | [PDF](https://github.com/blm17e/Portfolio/blob/main/image/Spatial%20and%20racial%20covid-19%20disparities%20in%20U.S.%20nursing%20homes.pdf)
 
